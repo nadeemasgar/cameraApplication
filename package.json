@@ -1,0 +1,19 @@
+{
+  "name": "cameraApplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "i": "^0.3.7",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.0"
+  }
+}
